@@ -4,6 +4,25 @@ Please refer to [.config/cool.tpl.md](./.chglog/cool.tpl.md) for the CHANGELOG t
 
 
 
+<a name="0.1.1"></a>
+## [0.1.1](https://github.com/git-chglog/example-type-scope-subject/compare/0.1.0...0.1.1)
+
+> 2018-05-06
+
+### Bug Fixes
+
+* **core:** redirect stderr to fix mingw build
+* **installer:** Fix CLI installation on Windows
+
+### Code Refactoring
+
+* **core:** update comment
+
+### Features
+
+* **core:** Add events method to Asciicast class
+
+
 <a name="0.1.0"></a>
 ## 0.1.0
 
