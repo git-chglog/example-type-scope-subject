@@ -1,5 +1,5 @@
 style: github
-template: standard.tpl.md
+template: kac.tpl.md
 info:
   title: CHANGELOG
   repository_url: https://github.com/git-chglog/example-type-scope-subject
