@@ -9,6 +9,10 @@ Please refer to [.config/cool.tpl.md](./.chglog/cool.tpl.md) for the CHANGELOG t
 
 > 2018-05-06
 
+### Bug Fixes
+
+* **core:** Fix CHANGELOG format
+
 ### Code Refactoring
 
 * **logger:** remove unnecessary checks

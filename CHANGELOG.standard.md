@@ -7,6 +7,10 @@ Please refer to [.config/standard.tpl.md](./.chglog/standard.tpl.md) for the CHA
 <a name="1.0.0"></a>
 ## [1.0.0](https://github.com/git-chglog/example-type-scope-subject/compare/0.1.1...1.0.0) (2018-05-06)
 
+### Bug Fixes
+
+* **core:** Fix CHANGELOG format
+
 ### Code Refactoring
 
 * **logger:** remove unnecessary checks
